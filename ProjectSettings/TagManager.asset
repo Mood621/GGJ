@@ -3,16 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Ground
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
-  - Ground
+  - 
   - 
   - 
   - 
@@ -41,25 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: BackGround
-    uniqueID: 1664823903
-    locked: 0
-  - name: Platforms
-    uniqueID: 2560874719
-    locked: 0
-  - name: Trap
-    uniqueID: 1047104067
-    locked: 0
-  - name: Person
-    uniqueID: 3715450693
-    locked: 0
-  - name: Topic
-    uniqueID: 131188701
-    locked: 0
-  - name: Door
-    uniqueID: 1002783027
-    locked: 0
-  - name: Player
-    uniqueID: 3722487489
     locked: 0
