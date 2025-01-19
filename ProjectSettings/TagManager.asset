@@ -9,11 +9,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
+  - Ground
   - 
-  - BK
   - 
   - 
   - 
@@ -42,12 +42,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BK
-    uniqueID: 1288344463
+  - name: BackGround
+    uniqueID: 1664823903
     locked: 0
-  - name: Platform
-    uniqueID: 1316681803
+  - name: Platforms
+    uniqueID: 2560874719
+    locked: 0
+  - name: Trap
+    uniqueID: 1047104067
+    locked: 0
+  - name: Person
+    uniqueID: 3715450693
+    locked: 0
+  - name: Topic
+    uniqueID: 131188701
+    locked: 0
+  - name: Door
+    uniqueID: 1002783027
     locked: 0
   - name: Player
-    uniqueID: 1692191961
+    uniqueID: 3722487489
     locked: 0
